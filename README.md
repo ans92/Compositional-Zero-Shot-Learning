@@ -46,4 +46,30 @@
   [\[Paper\]](https://openaccess.thecvf.com/content/WACV2024/papers/Zheng_CAILA_Concept-Aware_Intra-Layer_Adapters_for_Compositional_Zero-Shot_Learning_WACV_2024_paper.pdf)
   [\[Code\]](https://github.com/zhaohengz/CAILA)
 
--   
+## 2023
+
+- **Simple Primitives with Feasibility- and Contextuality-Dependence for Open-World Compositional Zero-shot Learning** \
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023 \
+  Zhe Liu, Yun Li, Lina Yao, Xiaojun Chang, Wei Fang, Xiaojun Wu, Yi Yang \
+  [\[Paper\]](https://arxiv.org/pdf/2211.02895)
+
+- **Learning to Infer Unseen Single-/ Multi-Attribute-Object Compositions With Graph Networks** \
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023 \
+  Hui Chen, Jingjing Jiang, and Nanning Zheng \
+  [\[Paper\]](https://ieeexplore.ieee.org/document/10120982)
+
+- **Leveraging Sub-class Discimination for Compositional Zero-Shot Learning** \
+  Proceedings of the AAAI Conference on Artificial Intelligence 2023 \
+  Xiaoming Hu, Zilei Wang, \
+  [\[Paper\]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjNn7boqJWHAxX19AIHHbiuCekQFnoECCAQAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F25168%2F24940&usg=AOvVaw1_QGMgsJerwpzlqEKxW7oB&opi=89978449)
+  [\[Code\]](https://github.com/hxm97/SCD-CZSL)
+
+- **Dual-Stream Contrastive Learning for Compositional Zero-Shot Recognition** \
+  IEEE Transactions on Multimedia 2023 \
+  Yanhua Yang, Rui Pan, Xiangyu Li, Xu Yang, and Cheng Deng \
+  [\[Paper\]](https://ieeexplore.ieee.org/document/10044268)
+
+- **Hierarchical Prompt Learning for Compositional Zero-Shot Recognition** \
+  Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), 2023 \
+  Henan Wang , Muli Yang, Kun Wei and Cheng Deng \
+  [\[Paper\]](https://www.ijcai.org/proceedings/2023/0163.pdf)
