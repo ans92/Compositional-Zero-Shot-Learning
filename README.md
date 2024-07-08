@@ -73,3 +73,79 @@
   Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI), 2023 \
   Henan Wang , Muli Yang, Kun Wei and Cheng Deng \
   [\[Paper\]](https://www.ijcai.org/proceedings/2023/0163.pdf)
+
+- **Decomposed Soft Prompt Guided Fusion Enhancing for Compositional Zero-Shot Learning** \
+  Computer Vision and Pattern Recognition (CVPR), 2023 \
+  Xiaocheng Lu, Song Guo, Ziming Liu, Jingcai Guo \
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Lu_Decomposed_Soft_Prompt_Guided_Fusion_Enhancing_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
+  [\[Code\]](https://github.com/Forest-art/DFSP)
+
+- **Learning Attention as Disentangler for Compositional Zero-shot Learning** \
+  Computer Vision and Pattern Recognition (CVPR), 2023 \
+  Shaozhe Hao, Kai Han, Kwan-Yee K. Wong \
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Hao_Learning_Attention_As_Disentangler_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
+  [\[Code\]](https://github.com/haoosz/ade-czsl)
+  [\[Website\]](https://github.com/haoosz/ade-czsl)
+
+- **Learning Conditional Attributes for Compositional Zero-Shot Learning** \
+  Computer Vision and Pattern Recognition (CVPR), 2023 \
+  Qingsheng Wang, Lingqiao Liu, Chenchen Jing, Hao Chen, Guoqiang Liang, Peng Wang, Chunhua Shen \
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Learning_Conditional_Attributes_for_Compositional_Zero-Shot_Learning_CVPR_2023_paper.pdf)
+  [\[Code\]](https://github.com/wqshmzh/CANet-CZSL)
+
+- **Learning to Compose Soft Prompts for Compositional Zero-Shot Learning** \
+  International Conference on Learning Representations (ICLR), 2023 \
+  Nihal V. Nayak, Peilin Yu, Stephen H. Bach \
+  [\[Paper\]](https://arxiv.org/pdf/2204.03574)
+  [\[Code\]](https://github.com/BatsResearch/csp)
+
+- **Distilled Reverse Attention Network for Open-world Compositional Zero-Shot Learning** \
+  IEEE/CVF International Conference on Computer Vision (ICCV), 2023 \
+  Yun Li, Zhe Liu, Saurav Jha, Lina Yao \
+  [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_Distilled_Reverse_Attention_Network_for_Open-world_Compositional_Zero-Shot_Learning_ICCV_2023_paper.pdf)
+
+- **Hierarchical Visual Primitive Experts for Compositional Zero-Shot Learning** \
+  IEEE/CVF International Conference on Computer Vision (ICCV), 2023 \
+  Hanjae Kim, Jiyoung Lee, Seongheon Park, Kwanghoon Sohn \
+  [\[Paper\]](https://openaccess.thecvf.com/content/ICCV2023/papers/Kim_Hierarchical_Visual_Primitive_Experts_for_Compositional_Zero-Shot_Learning_ICCV_2023_paper.pdf)
+  [\[Code\]](https://github.com/HanjaeKim98/CoT)
+
+- **Learning Attention Propagation for Compositional Zero-Shot Learning** \
+  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023 \
+  Muhammad Gul Zain Ali Khan, Muhammad Ferjad Naeem, Luc Van Gool, A. Pagani, Didier Stricker Muhammad Zeshan Afzal \
+  [\[Paper\]](https://openaccess.thecvf.com/content/WACV2023/papers/Khan_Learning_Attention_Propagation_for_Compositional_Zero-Shot_Learning_WACV_2023_paper.pdf)
+  [\[Code\]]()
+
+## 2022
+
+- **A decomposable causal view of compositional zero-shot learning** \
+  IEEE Transactions on Multimedia 2022 \
+  Muli Yang, Chenghao Xu, Aming Wu, and Cheng Deng \
+  [\[Paper\]](https://openreview.net/pdf?id=iQMvSh2QbK)
+  [\[Code\]](https://github.com/muliyangm/DeCa)
+
+- **Siamese Contrastive Embedding Network for Compositional Zero-Shot Learning** \
+  Computer Vision and Pattern Recognition (CVPR), 2022 \
+  Xiangyu Li, Xu Yang, Kun Wei, Cheng Deng, Muli Yang \
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Siamese_Contrastive_Embedding_Network_for_Compositional_Zero-Shot_Learning_CVPR_2022_paper.pdf)
+  [\[Code\]](https://github.com/XDUxyLi/SCEN-master)
+
+- **KG-SP: Knowledge Guided Simple Primitives for Open World Compositional Zero-Shot Learning** \
+  Computer Vision and Pattern Recognition (CVPR), 2022 \
+  Shyamgopal Karthik, Massimiliano Mancini, Zeynep Akata \
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Karthik_KG-SP_Knowledge_Guided_Simple_Primitives_for_Open_World_Compositional_Zero-Shot_CVPR_2022_paper.pdf)
+  [\[Code\]](https://github.com/ExplainableML/KG-SP)
+
+- **Disentangling Visual Embeddings for Attributes and Objects** \
+  Computer Vision and Pattern Recognition (CVPR), 2022 \
+  Nirat Saini, Khoi Pham, Abhinav Shrivastava \
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Saini_Disentangling_Visual_Embeddings_for_Attributes_and_Objects_CVPR_2022_paper.pdf)
+  [\[Code\]](https://github.com/nirat1606/OADis)
+
+- **Learning Invariant Visual Representations for Compositional Zero-Shot Learning** \
+  European Conference on Computer Vision (ECCV), 2022
+  Tian Zhang, Kongming Liang, Ruoyi Du, Xian Sun, Zhanyu Ma and Jun Guo \
+  [\[Paper\]](https://arxiv.org/pdf/2206.00415)
+  [\[Code\]](https://github.com/PRIS-CV/IVR)
+
+## 2021
