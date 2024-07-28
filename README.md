@@ -59,13 +59,13 @@
   [\[Paper\]](https://ieeexplore.ieee.org/document/10120982)
 
 - **Leveraging Sub-class Discimination for Compositional Zero-Shot Learning** \
-  Proceedings of the AAAI Conference on Artificial Intelligence 2023 \
+  Proceedings of the AAAI Conference on Artificial Intelligence, 2023 \
   Xiaoming Hu, Zilei Wang, \
   [\[Paper\]](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjNn7boqJWHAxX19AIHHbiuCekQFnoECCAQAQ&url=https%3A%2F%2Fojs.aaai.org%2Findex.php%2FAAAI%2Farticle%2Fview%2F25168%2F24940&usg=AOvVaw1_QGMgsJerwpzlqEKxW7oB&opi=89978449)
   [\[Code\]](https://github.com/hxm97/SCD-CZSL)
 
 - **Dual-Stream Contrastive Learning for Compositional Zero-Shot Recognition** \
-  IEEE Transactions on Multimedia 2023 \
+  IEEE Transactions on Multimedia, 2023 \
   Yanhua Yang, Rui Pan, Xiangyu Li, Xu Yang, and Cheng Deng \
   [\[Paper\]](https://ieeexplore.ieee.org/document/10044268)
 
@@ -143,9 +143,96 @@
   [\[Code\]](https://github.com/nirat1606/OADis)
 
 - **Learning Invariant Visual Representations for Compositional Zero-Shot Learning** \
-  European Conference on Computer Vision (ECCV), 2022
+  European Conference on Computer Vision (ECCV), 2022 \
   Tian Zhang, Kongming Liang, Ruoyi Du, Xian Sun, Zhanyu Ma and Jun Guo \
   [\[Paper\]](https://arxiv.org/pdf/2206.00415)
   [\[Code\]](https://github.com/PRIS-CV/IVR)
 
+- **Learning Graph Embeddings for Open World Compositional Zero-Shot Learning** \
+  IEEE Transactions on pattern analysis and machine intelligence (TPAMI), 2022 \
+  Massimiliano Mancini, Muhammad Ferjad Naeem, Yongqin Xian, and Zeynep Akata \
+  [\[Paper\]](https://arxiv.org/pdf/2105.01017)
+  [\[Code\]](https://github.com/ExplainableML/co-cge)
+
 ## 2021
+
+- **Learning Graph Embeddings for Compositional Zero-shot Learning** \
+  Computer Vision and Pattern Recognition (CVPR), 2021 \
+  Muhammad Ferjad Naeem, Yongqin Xian, Federico Tombari, Zeynep Akata \
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Naeem_Learning_Graph_Embeddings_for_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf)
+  [\[Code\]](https://github.com/ExplainableML/czsl)
+
+- **Open World Compositional Zero-Shot Learning** \
+  Computer Vision and Pattern Recognition (CVPR), 2021 \
+  Massimiliano Mancini, Muhammad Ferjad Naeem, Yongqin Xian, Zeynep Akata \
+  [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2021/papers/Mancini_Open_World_Compositional_Zero-Shot_Learning_CVPR_2021_paper.pdf)
+  [\[Code\]](https://github.com/ExplainableML/czsl)
+
+- **Independent Prototype Propagation for Zero-Shot Compositionality** \
+  Advances in Neural Information Processing Systems (NeurIPS), 2021 \
+  Frank Ruis, Gertjan J. Burghouts, Doina Bucur \
+  [\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2021/file/584b98aac2dddf59ee2cf19ca4ccb75e-Paper.pdf)
+  [\[Code\]](https://github.com/FrankRuis/protoprop)
+
+- **Relation-aware compositional zero-shot learning for attribute-object pair recognition** \
+  IEEE Transactions on Multimedia, 2021 \
+  Ziwei Xu, Guangzhi Wang, Yongkang Wong, Mohan Kankanhalli  \
+  [\[Paper\]](https://arxiv.org/pdf/2108.04603)
+  [\[Code\]](https://github.com/daoyuan98/Relation-CZSL)
+  
+- **Learning Single/Multi-Attribute of Object with Symmetry and Group** \
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2021 \
+  Yong-Lu Li, Yue Xu, Xinyu Xu, Xiaohan Mao, Cewu Lu \
+  [\[Paper\]](https://arxiv.org/pdf/2110.04603)
+  [\[Code\]](https://github.com/DirtyHarryLYL/SymNet)
+
+## 2020
+
+- **Symmetry and Group in Attribute-Object Compositions** \
+  Computer Vision and Pattern Recognition (CVPR), 2020 \
+  Yong-Lu Li, Yue Xu, Xiaohan Mao, Cewu Lu \
+  [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Symmetry_and_Group_in_Attribute-Object_Compositions_CVPR_2020_paper.pdf)
+  [\[Code\]](https://github.com/DirtyHarryLYL/SymNet)
+
+- **Learning Unseen Concepts via Hierarchical Decomposition and Composition** \
+  Computer Vision and Pattern Recognition (CVPR), 2020 \
+  Muli Yang, Cheng Deng, Junchi Yan, Xianglong Liu, Dacheng Tao \
+  [\[Paper\]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_Unseen_Concepts_via_Hierarchical_Decomposition_and_Composition_CVPR_2020_paper.pdf)
+  [\[Code\]](https://github.com/DirtyHarryLYL/SymNet)
+
+- **A causal view of compositional zero-shot recognition** \
+  Advances in Neural Information Processing Systems (NeurIPS), 2021 \
+  Yuval Atzmon, Felix Kreuk, Uri Shalit, Gal Chechik \
+  [\[Paper\]](https://proceedings.neurips.cc/paper_files/paper/2020/file/1010cedf85f6a7e24b087e63235dc12e-Paper.pdf)
+  [\[Code\]](https://github.com/NVlabs/causal_comp)
+
+## 2019
+
+- **Adversarial Fine-Grained Composition Learning for Unseen Attribute-Object Recognition** \
+  IEEE/CVF International Conference on Computer Vision (ICCV), 2019 \
+  Kun Wei, Muli Yang, Hao Wang, Cheng Deng, Xianglong Liu \
+  [\[Paper\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wei_Adversarial_Fine-Grained_Composition_Learning_for_Unseen_Attribute-Object_Recognition_ICCV_2019_paper.pdf)
+
+- **Task-Driven Modular Networks for Zero-Shot Compositional Learning** \
+  IEEE/CVF International Conference on Computer Vision (ICCV), 2019 \
+  Senthil Purushwalkam, Maximilian Nickel, Abhinav Gupta, Marc’Aurelio Ranzato \
+  [\[Paper\]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Purushwalkam_Task-Driven_Modular_Networks_for_Zero-Shot_Compositional_Learning_ICCV_2019_paper.pdf)
+
+- **Recognizing unseen attribute-object pair with generative model** \
+  Proceedings of the AAAI Conference on Artificial Intelligence, 2019 \
+  Zhixiong Nan, Yang Liu, Nanning Zheng, Song-Chun Zhu \
+  [\[Paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/4907/4780)
+
+## 2018
+
+- **Attributes as Operators: Factorizing Unseen Attribute-Object Compositions** \
+  European Conference on Computer Vision (ECCV), 2018 \
+  Tushar Nagarajan, Kristen Grauman \
+  [\[Paper\]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tushar_Nagarajan_Attributes_as_Operators_ECCV_2018_paper.pdf)
+
+## 2017
+
+- **From Red Wine to Red Tomato: Composition with Context** \
+  Computer Vision and Pattern Recognition (CVPR), 2017 \
+  Ishan Misra, Abhinav Gupta, Martial Hebert \
+  [\[Paper\]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Misra_From_Red_Wine_CVPR_2017_paper.pdf)
