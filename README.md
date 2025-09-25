@@ -11,13 +11,24 @@
   IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 \
   Hirunima Jayasekara; Khoi Pham; Nirat Saini; Abhinav Shrivastava \
   [\[Paper\]](https://openaccess.thecvf.com/content/WACV2025/papers/Jayasekara_Unified_Framework_for_Open-World_Compositional_Zero-Shot_Learning_WACV_2025_paper.pdf)
-  [\[Code\]]([\[Code\]](https://github.com/quhongyu/ClusPro))
+  [\[Code\]](https://github.com/hirunima/OWCZSL)
 
 - **Learning clustering-based prototypes for compositional zero-shot learning** \
   International Conference on Learning Representations (ICLR), 2025 \
   Hongyu Qu, Jianan Wei, Xiangbo Shu, Wenguan Wang \
   [\[Paper\]](https://arxiv.org/pdf/2502.06501)
   [\[Code\]](https://github.com/quhongyu/ClusPro)
+
+- **Compact Latent Primitive Space Learning for Compositional Zero-Shot Learning** \
+  IEEE Transactions on Multimedia, 2025 \
+  Han Jiang, Chaofan Chen, Xiaoshan Yang, Changsheng Xu \
+  [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10855509)
+
+- **Visual primitives as words: Alignment and interaction for compositional zero-shot learning** \
+  Pattern Recognition, 2025 \
+  Feng Shuang, Jiahuan Li, Qingbao Huang, Wenye Zhao, Dongsheng Xu, Chao Han, Haonan Cheng  \
+  [\[Paper\]](https://ieeexplore.ieee.org/abstract/document/10855509)
+  
 
 
 ## 2024
