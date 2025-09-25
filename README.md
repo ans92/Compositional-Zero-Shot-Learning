@@ -1,5 +1,25 @@
 # Compositional-Zero-Shot-Learning
 
+## 2025
+
+- **HOPE: A Memory-Based and Composition-Aware Framework for Zero-Shot Learning with Hopfield Network and Soft Mixture of Experts** \
+  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 \
+  Do Huu Dat; Po-Yuan Mao; Tien Hoang Nguyen; Wray Buntine; Mohammed Bennamoun \
+  [\[Paper\]](https://openaccess.thecvf.com/content/WACV2025/papers/Dat_HOPE_A_Memory-Based_and_Composition-Aware_Framework_for_Zero-Shot_Learning_with_WACV_2025_paper.pdf)
+
+- **Unified Framework for Open-World Compositional Zero-shot Learning** \
+  IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 \
+  Hirunima Jayasekara; Khoi Pham; Nirat Saini; Abhinav Shrivastava \
+  [\[Paper\]](https://openaccess.thecvf.com/content/WACV2025/papers/Jayasekara_Unified_Framework_for_Open-World_Compositional_Zero-Shot_Learning_WACV_2025_paper.pdf)
+  [\[Code\]]([\[Code\]](https://github.com/quhongyu/ClusPro))
+
+- **Learning clustering-based prototypes for compositional zero-shot learning** \
+  International Conference on Learning Representations (ICLR), 2025 \
+  Hongyu Qu, Jianan Wei, Xiangbo Shu, Wenguan Wang \
+  [\[Paper\]](https://arxiv.org/pdf/2502.06501)
+  [\[Code\]](https://github.com/quhongyu/ClusPro)
+
+
 ## 2024
 
 - **Context-based and Diversity-driven Specificity in Compositional Zero-Shot Learning** \
